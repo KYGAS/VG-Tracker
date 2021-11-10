@@ -1,0 +1,13 @@
+{
+    "name": "Vanguard Tracker",
+    "author": "Kygas",
+    "options": {
+        "niceName": "VT",
+        "guiName": "Event Vanguard Tracker",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/VG-Tracker"],
+    "disableAutoUpdate": false
+}
