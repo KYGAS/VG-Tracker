@@ -8,6 +8,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/VG-Tracker"],
+    "servers": ["https://raw.githubusercontent.com/KYGAS/VG-Tracker/master/"],
     "disableAutoUpdate": false
 }
